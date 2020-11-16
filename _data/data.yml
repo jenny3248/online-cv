@@ -33,14 +33,14 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
+#       - item: Climbing
+#         link:
 
-      - item: Snowboarding
-        link:
+#       - item: Snowboarding
+#         link:
 
-      - item: Cooking
-        link:
+#       - item: Cooking
+#         link:
 
 career-profile:
     title: Career Profile
@@ -81,7 +81,11 @@ experiences:
           volume of projects and regulate quality of designers
           - Used advanced data analysis and data visualization techniques to perform 
           analysis with data retrieved with PostreSQL
-
+    - role: Student Instructor
+      time: January 2019 - May 2019
+      company: UC Berkeley Electrical Engineer & Computer Sciences
+      details: |
+          - Guided graduate students in The Foundation of Data Science, teaching python programming and statistical analysis
     - role: Web Development Intern
       time: May 2017 - June 2017
       company: Hwa Create, Beijing
@@ -90,17 +94,16 @@ experiences:
           - Programmed websites to access logistical data using Eclipse and Apache Tomcat
     
 extracurricular activities:
-    - role: Student Instructor
-      time: January 2019 - May 2019
+    
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Credit Card Default Detection
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
@@ -129,16 +132,11 @@ publications:
     papers:
       - title: "ADUs in California: A Revolution in Progress"
         link: "https://www.aducalifornia.org/wp-content/uploads/2020/09/ADUs-in-California-5.pdf"
+        authors: Karen Chapple, Audrey Lieberworth, Dori Ganetsos, Eric Valchuis, Andrew Kwang & Rachel Schten
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Reaching California’s ADU Potential: Progress to Date and the Need for ADU Finance"
+        link: "http://ternercenter.berkeley.edu/uploads/Reaching_Californias_ADU_Potential_2020_1.pdf"
+        authors: Karen Chapple, David, Garcia, Eric Valchuis, Julian, Tucker
 
 skills:
     title: Skills &amp; Proficiency
