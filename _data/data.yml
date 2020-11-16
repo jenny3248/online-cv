@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+#     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -73,28 +73,26 @@ experiences:
           - Conducted interviews of low-income housing residents for the 
           California Air and Resource Board and analyzed data for the 
           co-benefits of living near transit centers
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Data Scientist
+      time: June 2019 - August 2019
+      company: DesignBro, Netherlands
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Developed automated tool to rank designers allowing platform to increase 
+          volume of projects and regulate quality of designers
+          - Used advanced data analysis and data visualization techniques to perform 
+          analysis with data retrieved with PostreSQL
+
+    - role: Web Development Intern
+      time: May 2017 - June 2017
+      company: Hwa Create, Beijing
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Collaborated with higher executives to plan and to develop software for internal company organization 
+          - Programmed websites to access logistical data using Eclipse and Apache Tomcat
+    
+extracurricular activities:
+    - role: Student Instructor
+      time: January 2019 - May 2019
+
 projects:
     title: Projects
     intro: >
@@ -146,16 +144,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Tableau
+        level: 50%
 
-      - name: HTML5 & CSS
+      - name: Java
         level: 95%
 
       - name: Ruby on Rails
@@ -163,6 +161,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
