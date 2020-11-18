@@ -104,24 +104,17 @@ projects:
 #       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Credit Card Default Detection
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://github.com/jenny3248/default-detection"
+        tagline: "machine learning model that predicts whether a client’s credit card will default"
 
-      - title: DevStudio
+      - title: Insurance Claim Severity
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "regression model that predicts how sever is a claim"
 
-      - title: Tempo
+      - title: DesignBro Designer Ranking 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "algorithm that ranks graphic designers based on an array of factors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -152,7 +145,7 @@ skills:
         level: 50%
 
       - name: Java
-        level: 95%
+        level: 75%
 
       - name: Ruby on Rails
         level: 85%
