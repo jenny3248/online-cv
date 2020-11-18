@@ -94,6 +94,7 @@ experiences:
           - Programmed websites to access logistical data using Eclipse and Apache Tomcat
     
 extracurricular activities:
+
     
 
 projects:
@@ -118,10 +119,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
       - title: "ADUs in California: A Revolution in Progress"
         link: "https://www.aducalifornia.org/wp-content/uploads/2020/09/ADUs-in-California-5.pdf"
@@ -147,8 +148,6 @@ skills:
       - name: Java
         level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
+      - libraries: Numpy, Pandas, Seaborn, Matplotlib, Bokeh, SciKit-Learn
 
-      - name: Sketch & Photoshop
-        level: 60%
+
