@@ -154,8 +154,8 @@ skills:
         level: 50%
 
       - name: Java
-        level: 75%
+        level: 65%
 
-      - libraries: Numpy, Pandas, Seaborn, Matplotlib, Bokeh, SciKit-Learn
+      - name: "libraries: Numpy, Pandas, Seaborn, Matplotlib, Bokeh, SciKit-Learn"
 
 
