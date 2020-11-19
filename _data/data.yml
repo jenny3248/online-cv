@@ -118,12 +118,21 @@ projects:
         tagline: "machine learning model that predicts whether a client’s credit card will default"
 
       - title: Insurance Claim Severity
-        link: "#"
-        tagline: "regression model that predicts how sever is a claim"
+        link: 
+        tagline: "regression model that predicts how severe is a claim"
 
       - title: DesignBro Designer Ranking 
-        link: "#"
-        tagline: "algorithm that ranks graphic designers based on an array of factors"
+        link: 
+        tagline: "algorithm that ranks graphic designers"
+
+      - title: NYC Airbnb Price Prediction
+        link: 
+        tagline: "predicts price of Airbnb listings and suggested the optimal price for new 
+        listings using text analysis (TF-IDF, Sentiment Analysis)"
+
+      - title: Yelp Review Classification 
+        link: 
+        tagline: "class Kaggle competition classifying Yelp reviews, team received 3rd place"
 
 
 publications:
