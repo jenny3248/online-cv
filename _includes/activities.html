@@ -1,31 +1,32 @@
-{% assign experiences = site.data.data.extracurricular %}
-{% if extracurricular %}
-<section class="section extracurricular-section">
+{% assign experiences = site.data.data.activities %}
+{% if activities %}
+<section class="section activities-section">
+
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Extracurricular
+    {{ activities.title }}
   </h2>
 
-  {% for extracurricular in extracurricular %}
+  {% for activities in activities %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ extracurricular.role }}</h3>
-        <div class="time">{{ extracurricular.time }}</div>
+        <h3 class="job-title">{{ activities.role }}</h3>
+        <div class="time">{{ activities.time }}</div>
       </div><!--//upper-row-->
 
       <div class="company">{{ experience.company }}</div>
 
     </div><!--//meta-->
 
-    {% if extracurricular.details %}
+    {% if activities.details %}
     <div class="details">
-      {{ extracurricular.details | markdownify }}
+      {{ activities.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
