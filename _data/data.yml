@@ -96,14 +96,14 @@ experiences:
           - Programmed websites to access logistical data using Eclipse and Apache 
           Tomcat
     
-activities:
-    title: Extracurricular Activities
-      - role: Student Instructor
-        time: January 2019 - May 2019
-        company: Introduction to Data Science for Graduate Students
-        details: |
-          - Guided graduate students in The Foundation of Data Science, teaching python 
-          programming and statistical analysis
+# activities:
+#     title: Extracurricular Activities
+#       - role: Student Instructor
+#         time: January 2019 - May 2019
+#         company: Introduction to Data Science for Graduate Students
+#         details: |
+#           - Guided graduate students in The Foundation of Data Science, teaching python 
+#           programming and statistical analysis
     
 
 projects:
