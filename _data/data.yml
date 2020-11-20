@@ -152,7 +152,8 @@ publications:
 
 skills:
     title: Skills
-        - Bullet point
+
+    details: |
         - Bullet point
 
 
