@@ -42,10 +42,10 @@ sidebar:
 #       - item: Cooking
 #         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      I am a new grad.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       I am a new grad.
 education:
     - degree: BA in Data Science
       university: University of California, Berkeley
