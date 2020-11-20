@@ -10,28 +10,21 @@
     {{ skills.title }}
   </h2>
 
-  <div class="skillset">
+  {% if skills.intro %}
+  <div class="intro">
+    {{ skills.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
 
-    {% for skill in skills.toolset %}
-    <div class="item">
-
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-<!--       <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-
-      {% if experience.details %}
-      <div class="details">
-        {{ experience.details | markdownify }}
-      </div><!--//details-->
-
-    </div><!--//item-->
-    {% endfor %}
-
-  </div>
+  {% for skill in skills.papers %}
+  <div class="item">
+    {% if skill.link %}
+      <li><a href="{{ skill.link }}">{{ skill.title }}</a></li>
+    {% else %}
+      <li>{{ skill.title }}</li>
+    {% endif %}
+  </div><!--//item-->
+  {% endfor %} 
 
 </section><!--//skills-section-->
 {% endif %}

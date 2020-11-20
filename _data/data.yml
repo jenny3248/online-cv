@@ -153,9 +153,8 @@ publications:
 skills:
     title: Skills
 
-    details: |
-        - Bullet point
-
+    papers:
+      - title: Python
 
 
     # toolset:
