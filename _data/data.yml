@@ -154,7 +154,10 @@ skills:
     title: Skills
 
     skillset:
-      - title: Python
+      - title: "Programming: SQL, Python, Java"
+      - title: "Data Visualization: Matplotlib, Seaborn, Bokeh, Tableau, Excel"
+      - title: "Modeling: Linear regression, logistic regression, decision trees, KNN, Dimensionality Reduction"
+      - title: 
 
 
     # toolset:
