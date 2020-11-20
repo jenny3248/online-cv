@@ -152,12 +152,11 @@ publications:
 
 skills:
     title: Skills
-
     skillset:
-      - title: "Programming: SQL, Python, Java"
+      - title: "Programming: SQL, Python, Java, HTML, CSS"
       - title: "Data Visualization: Matplotlib, Seaborn, Bokeh, Tableau, Excel"
-      - title: "Modeling: Linear regression, logistic regression, decision trees, KNN, Dimensionality Reduction"
-      - title: 
+      - title: "Modeling: NumPy, Pandas, Statsmodels, SciKit-Learn, NLTK, Gensim"
+      - title: "Design: Illustrator, Photoshop, Fusion360, Bootstrap"
 
 
     # toolset:
