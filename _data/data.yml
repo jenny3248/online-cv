@@ -135,10 +135,10 @@ projects:
         tagline: "class Kaggle competition classifying Yelp reviews, team received 3rd place"
 
       - title: Karen Chapple
-        link: karenchapple.com
+        link: "http://karenchapple.com/"
         tagline: personal site for UC Berkeley professor, Karen Chapple
 
-        
+
 
 publications:
     title: Publications
