@@ -33,14 +33,14 @@ sidebar:
         level: Professional
 
     interests:
-#       - item: Climbing
-#         link:
+      - item: Baking
+        link:
 
-#       - item: Snowboarding
-#         link:
+      - item: Woodworking
+        link:
 
-#       - item: Cooking
-#         link:
+      - item: 
+        link:
 
 # career-profile:
 #     title: Career Profile
@@ -83,15 +83,15 @@ experiences:
           analysis with data retrieved with PostreSQL
     - role: Student Instructor
       time: January 2019 - May 2019
-      company: UC Berkeley Electrical Engineer & Computer Sciences
+      company: UC Berkeley
       details: |
-          - Guided graduate students in The Foundation of Data Science, teaching 
-          python programming and statistical analysis
+          - Guided graduate students in Data 8 course, teaching 
+          python programming and statistical analysis in Python
     - role: Web Development Intern
       time: May 2017 - June 2017
       company: Hwa Create, Beijing
       details: |
-          - Collaborated with higher executives to plan and to develop software for 
+          - Collaborated with higher executives to plan and develop software for 
           internal company organization 
           - Programmed websites to access logistical data using Eclipse and Apache 
           Tomcat
@@ -117,9 +117,9 @@ projects:
         link: "https://github.com/jenny3248/default-detection"
         tagline: "predicts whether a client’s credit card will default"
 
-      - title: Insurance Claim Severity
-        link: 
-        tagline: "models how severe an insurance claim is"
+      # - title: Insurance Claim Severity
+      #   link: 
+      #   tagline: "models how severe an insurance claim is"
 
       - title: DesignBro Designer Ranking 
         link: 
@@ -134,6 +134,11 @@ projects:
         link: 
         tagline: "class Kaggle competition classifying Yelp reviews, team received 3rd place"
 
+      - title: Karen Chapple
+        link: karenchapple.com
+        tagline: personal site for UC Berkeley professor, Karen Chapple
+
+        
 
 publications:
     title: Publications
