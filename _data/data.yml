@@ -63,7 +63,7 @@ education:
 experiences:
     - role: Data Analyst, Research Assistant
       time: September 2017 - October 2020
-      company: UC Berkeley Center for Community Innovation (CCI) 
+      company: Center for Community Innovation (CCI), Berkeley
       details: |
           - Performed statistical analysis and utilized machine learning 
           techniques (correlation analysis, logistic and linear regression) 
@@ -136,7 +136,7 @@ projects:
 
       - title: Karen Chapple
         link: "http://karenchapple.com/"
-        tagline: personal site for UC Berkeley professor, Karen Chapple
+        tagline: "personal site for UC Berkeley professor, Karen Chapple"
 
 
 
