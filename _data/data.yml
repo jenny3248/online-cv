@@ -123,7 +123,7 @@ projects:
 
       - title: DesignBro Designer Ranking 
         link: 
-        tagline: "algorithm that ranks designers"
+        tagline: "algorithm that ranks designers by competition performance and client interaction"
 
       - title: NYC Airbnb Price Prediction
         link: 
