@@ -132,7 +132,7 @@ projects:
 
       - title: Yelp Review Classification 
         link: 
-        tagline: "class Kaggle competition classifying Yelp reviews, team received 3rd place"
+        tagline: "Kaggle competition classifying Yelp ratings, team received 3rd place"
 
       - title: Karen Chapple
         link: "http://karenchapple.com/"
