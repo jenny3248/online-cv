@@ -75,7 +75,7 @@ experiences:
           co-benefits of living near transit centers
     - role: Data Scientist Intern
       time: June 2019 - August 2019
-      company: DesignBro, Netherlands
+      company: DesignBro, Amsterdam, Netherlands
       details: |
           - Developed automated tool to rank designers allowing platform to increase 
           volume of projects and regulate quality of designers
@@ -89,7 +89,7 @@ experiences:
           python programming and statistical analysis in Python
     - role: Web Development Intern
       time: May 2017 - June 2017
-      company: Hwa Create, Beijing
+      company: Hwa Create, Beijing, China
       details: |
           - Collaborated with higher executives to plan and develop software for 
           internal company organization 
@@ -117,9 +117,9 @@ projects:
         link: "https://github.com/jenny3248/default-detection"
         tagline: "predicts whether a client’s credit card will default"
 
-      # - title: Insurance Claim Severity
-      #   link: 
-      #   tagline: "models how severe an insurance claim is"
+      - title: Insurance Claim Severity
+        link: "https://github.com/jenny3248/insurance_claim"
+        tagline: "models severity of an insurance claim"
 
       - title: DesignBro Designer Ranking 
         link: 
